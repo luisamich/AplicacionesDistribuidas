@@ -72,7 +72,7 @@ try:
             print('')
 
         if opcion == 5: 
-            print("***** ADIUUUUS POPO *****")
+            print("***** ADIOS *****")
             break
 
 except ValueError:
